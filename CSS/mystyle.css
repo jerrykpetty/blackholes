@@ -23,9 +23,11 @@ footer {
 }
 
 .activity-col {
-    display: flex;
     padding: 10px;
-    text-align: center;
+}
+
+.activity-col figure {
+    margin: 0;
 }
 
 h1 {
